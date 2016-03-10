@@ -1,0 +1,15 @@
+{
+  "name": "agna-disc",
+  "version": "0.0.2",
+  "description": "Dependency injection service container",
+  "main": "Container.js",
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "lodash": "3.10.x"
+  },
+  "devDependencies": {
+    "jasmine": "2.3.x",
+    "jasmine-expect": "1.22.x"
+  }
+}
